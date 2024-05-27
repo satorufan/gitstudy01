@@ -11,7 +11,7 @@ app.get("/home", (req, res)=>{
 });
 
 app.get("/profile", (req, res)=>{
-    res.end("<h1>profile!</h1>");
+    res.end("<h1>profile!!</h1>");
 });
 
 app.get("/shop", (req, res)=>{
